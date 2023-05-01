@@ -8,7 +8,6 @@ I've been programming for more years of my life than not! I started my journey w
 
 * 🌍  I'm based in Vancouver, Canada
 * 🖥️  See my portfolio at [Harkunwar.com](http://harkunwar.com)
-* ✉️  You can contact me at [geek@harkunwar.com](mailto:geek@harkunwar.com)
 * 🚀  I'm currently working on [Splunk Dashboard Studio](http://www.splunk.com/en_us/blog/platform/dashboards-ga-introducing-splunk-dashboard-studio.html)
 * 🧠  I'm learning SolidJS, React and many other FrontEnd frameworks
 * 🤝  I'm open to collaborating on FrontEnd Projects
